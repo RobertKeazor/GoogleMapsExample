@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Google Maps Example</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="options">
+        <item>Walmart</item>
+        <item>Starbucks</item>
+        <item>Bank of America</item>
+        <item>Golds Gym</item>
+    </string-array>
+
+    <string-array name="results">
+        <item>Result 1</item>
+        <item>Result 2</item>
+        <item>Result 3</item>
+        <item>Result 4</item>
+        <item>Result 5</item>
+    </string-array>
+</resources>
